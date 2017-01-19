@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="400" width="300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs xmlns="http://www.w3.org/1999/xhtml"><style type="text/css"></style></defs>
+	<polygon style="fill: lightblue; stroke: royalblue; stroke-width: 7" points="100,0 200,0 225,50 225,300 150,400 75,300 75,50"/>
+	<polygon style="fill: yellow; stroke: goldenrod; stroke-width: 7" points="90,50 135,50 140,130 160,130 160,180 190,180 200,300 165,215 145,215 135,165 115,165"/>
+</svg>
